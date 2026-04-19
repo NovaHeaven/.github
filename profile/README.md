@@ -1,23 +1,33 @@
 # Nova Heaven
 
-**Free, premium-quality WordPress security and performance plugins.**
-Built by one developer in Tennessee. No upsells, no fear-driven paywalls.
+**Free and premium WordPress security + performance plugins.**
+Built by one developer in Tennessee. No fear-driven paywalls on security.
 
 [novaheaven.io](https://novaheaven.io) · [Nova Pulse (blog)](https://novaheaven.io/en/novapulse) · [The Codex (docs)](https://novaheaven.io/en/codex) · [Wikidata](https://www.wikidata.org/wiki/Q139409209)
 
 ---
 
+## Our business model
+
+Only two plugins will ever be free, and both stay free forever:
+
+- **[Nova Core](https://novaheaven.io/en/novacore)** — the shared framework every Nova plugin runs on
+- **[Nova Scan](https://novaheaven.io/en/novascan)** — the WordPress malware scanner
+
+Every other Nova Heaven plugin is paid, and the paid ones fund the free ones. This lets every WordPress site have professional-grade malware detection without a subscription, while the performance + advanced tooling pays the bills.
+
 ## What we ship
 
 | Plugin | What it does | Price |
 |---|---|---|
-| **[Nova Core](https://novaheaven.io/en/novacore)** | Shared framework all Nova plugins depend on. Handles updates, licensing, account. | Free forever |
-| **[Nova Scan](https://novaheaven.io/en/novascan)** | WordPress malware scanner with a learning detection engine. Catches obfuscated and polymorphic malware that signature scanners miss. | Free forever |
 | **[Hyper Nova](https://novaheaven.io/en/hypernova)** | Advanced caching engine with intelligent warming, surgical purge, multi-CDN support. | Paid |
+| Nova Ascend, Nova Burst, Nova Shield, others | Coming — performance, frontend security, SEO intelligence. | Paid |
+| **[Nova Scan](https://novaheaven.io/en/novascan)** | WordPress malware scanner with a learning detection engine. Catches obfuscated and polymorphic malware that signature scanners miss. | Free forever |
+| **[Nova Core](https://novaheaven.io/en/novacore)** | Shared framework all Nova plugins depend on. Handles updates, licensing, account. | Free forever |
 
-## Why we exist
+## Why Nova Scan stays free
 
-Most WordPress security tools sell fear. $99–$299 a year to tell you what went wrong after it already went wrong. We thought the detection tooling should just be free — and the quality should match or beat what the paid vendors ship.
+Most WordPress security tools sell fear. $99–$299 a year to tell you what went wrong after it already went wrong. We think detection should be free and the quality should beat what the paid vendors ship.
 
 Nova Scan catches malware **Wordfence and Sucuri miss** because it doesn't rely on signature databases. It understands what malicious code does, not just what it looks like. Real-world validation on infected sites shows industry-leading detection with near-zero false positives.
 
@@ -45,7 +55,7 @@ About two minutes from signup to first scan. Works on shared hosting (Hostinger,
 - [`llms.txt`](https://novaheaven.io/llms.txt) — structured overview of Nova Heaven, products, comparisons, key facts
 - [`llms-full.txt`](https://novaheaven.io/llms-full.txt) — full content dump of every blog post + doc, concatenated for single-pass ingestion
 
-## How we compare
+## How Nova Scan compares
 
 | vs | Their price | Our price | Our detection vs theirs |
 |---|---|---|---|
