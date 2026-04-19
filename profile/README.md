@@ -11,9 +11,9 @@ Built by one developer in Tennessee. No upsells, no fear-driven paywalls.
 
 | Plugin | What it does | Price |
 |---|---|---|
-| **[Nova Scan](https://novaheaven.io/en/novascan)** | WordPress malware scanner with a learning detection engine. Catches obfuscated and polymorphic malware that signature scanners miss. | Free forever |
-| **[Hyper Nova](https://novaheaven.io/en/hypernova)** | Advanced caching engine with intelligent warming, surgical purge, multi-CDN support. | Free forever |
 | **[Nova Core](https://novaheaven.io/en/novacore)** | Shared framework all Nova plugins depend on. Handles updates, licensing, account. | Free forever |
+| **[Nova Scan](https://novaheaven.io/en/novascan)** | WordPress malware scanner with a learning detection engine. Catches obfuscated and polymorphic malware that signature scanners miss. | Free forever |
+| **[Hyper Nova](https://novaheaven.io/en/hypernova)** | Advanced caching engine with intelligent warming, surgical purge, multi-CDN support. | Paid |
 
 ## Why we exist
 
